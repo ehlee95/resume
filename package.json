@@ -1,6 +1,6 @@
 {
   "name": "ericlee-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eric's Resume",
   "main": "index.js",
   "scripts": {
@@ -12,4 +12,3 @@
     "eric-resume": "./index.js"
   }
 }
-
