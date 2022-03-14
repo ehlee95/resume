@@ -9,7 +9,7 @@
   "author": "Eric Lee",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "eric-resume": "./index.js"
   }
 }
 
