@@ -1,0 +1,21 @@
+{
+    "name": "Eric Lee",
+    "website": "https://ericz.one/",
+    "linkedin": "https://www.linkedin.com/in/eric-h-lee/",
+    "github": "ehlee95",
+    "email": "eric95lee@gmail.com",
+    "skills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Python",
+        "SQL",
+        "Salesforce"
+    ],
+    "otherInterests": [
+        "Mycology",
+        "Rock climbing",
+        "Psychedelic studies",
+        "Food systems"
+    ]
+}
